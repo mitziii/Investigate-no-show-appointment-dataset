@@ -42,3 +42,20 @@ In this project, I have analysed a dataset and then communicate the findings abo
 **What factors are important for us to know in order to predict if a patient will show up for their scheduled appointment?**
 
 ## Findings
+
+• Firstly, gender is not a predictor to expect a patient showing up or not since percentage of patients showing up at appointment of female and male is similar.
+
+• The patients having scholarship are 4% less likely to show up for appointments than the group of not receiving scholarship.
+
+• The hypertension, alcoholism and diabetes are not the factors to predict if a patient will show up at appointments.
+
+• It is not necessary to send SMS to remind patients about their appointment since the group of patients receiving sms is 10% less likely to come to the appointment.
+
+• Age of the patients is a good predictor to predict if a patient will show up for appointment since the probability of showing up of a patient is related to his/her age. The probability of showing up for medical appointments is correlated with the age of the patients in the same direction. From the age of 20 and above, showing up probability increases in line with the age.
+
+• In addition, the number of missed appointment is another good factor to predict whether a patient will come up at the appointment or not. A patient with low number of previously missed appointment tend to come up at the appointed day rather than the patient with history of more missed appointment.
+
+• The handicap situation of a patient is related to the probability of coming to the appointment. The increase in the number of handicap is related with a decrease in the probability of showing up. When the number of handicap increases from 1 to 4, the corresponding probability of showing up for appointment declines from 82% to 66%.
+
+• The neighbourhood that a patient lives in also helps to predict if the patient shows up or not. For instance, the patients from PARQUE INDUSTRIAL, ILHA DO BOI, AEROPORTO, MARIO CYPRESTE and SOLON BORGES are most likely to show up for appointment whilst the patients from SANTA CLARA, SANTA CECÍLIA, SANTOS DUMONT and ILHAS OCEÂNICAS DE TRINDADE are the least likely to show up for medical appointment in Brazil.
+
